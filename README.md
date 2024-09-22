@@ -1,1 +1,2 @@
-# Tic-Tac-Toe-game
+Tic-Tac-Toe-game:
+This Tic-Tac-Toe game is a simple web-based implementation using HTML, CSS, and JavaScript. It features a 3x3 grid where two players alternate between X and O. The game detects winning combinations using predefined patterns and disables the grid when a player wins. Players can reset the game with a dedicated button to start over. The user interface is minimalist and responsive, ensuring a smooth gameplay experience across different screen sizes, with interactive click events to track turns and moves.
